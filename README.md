@@ -1,5 +1,5 @@
 Binary-Search-Tree
-Başlangıç:
+
 
 BST oluşturulmaya 7 ile başlanır ve 7 kök düğüm olur.
 7
