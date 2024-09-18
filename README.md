@@ -3,12 +3,11 @@
 ilk olarak
 Root: 7
 BST oluşturulmaya 7 ile başlanır ve 7 kök düğüm olur.
-markdown
+
     7
 Eleman 5:
 
 5, 7'den küçüktür, bu yüzden 5, 7'nin soluna eklenir.
-markdown
 
     7
    /
@@ -16,7 +15,6 @@ markdown
 Eleman 1:
 
 1, 7'den ve 5'ten küçüktür, bu yüzden 1, 5'in soluna eklenir.
-markdown
 
     7
    /
@@ -26,7 +24,6 @@ markdown
 Eleman 8:
 
 8, 7'den büyüktür, bu yüzden 8, 7'nin sağına eklenir.
-markdown
 
     7
    / \
@@ -36,7 +33,6 @@ markdown
 Eleman 3:
 
 3, 7'den ve 5'ten küçüktür ama 1'den büyüktür, bu yüzden 3, 1'in sağına eklenir.
-markdown
 
     7
    / \
@@ -48,8 +44,6 @@ markdown
 Eleman 6:
 
 6, 7'den küçüktür ama 5'ten büyüktür, bu yüzden 6, 5'in sağına eklenir.
-markdown
-
     7
    / \
   5   8
@@ -60,7 +54,6 @@ markdown
 Eleman 0:
 
 0, 7'den, 5'ten ve 1'den küçüktür, bu yüzden 0, 1'in soluna eklenir.
-markdown
 
     7
    / \
@@ -70,7 +63,6 @@ markdown
 /
 0 3
 
-markdown
 
 
 8. **Eleman 9**:
@@ -83,8 +75,6 @@ markdown
 / \   \
 1 6 9 /
 0 3
-
-rust
 
 
 9. **Eleman 4**:
